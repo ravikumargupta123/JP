@@ -1,2 +1,0 @@
-# JP
-Created with CodeSandbox
